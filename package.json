@@ -22,7 +22,7 @@
     "@angular/platform-browser": "~8.2.3",
     "@angular/platform-browser-dynamic": "~8.2.3",
     "@angular/router": "~8.2.3",
-    "@scullyio/init": "0.0.23",
+    "@scullyio/init": "2.1.41",
     "@scullyio/ng-lib-v8": "latest",
     "@scullyio/scully": "latest",
     "netlify-cms": "^2.10.32",
@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.0",
-    "@angular/cli": "~8.3.0",
+    "@angular/cli": "~15.1.4",
     "@angular/compiler-cli": "~8.2.3",
     "@angular/language-service": "~8.2.3",
     "@types/jasmine": "~3.3.8",
